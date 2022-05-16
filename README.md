@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @huzeyfebhdr
 
-- 👀 I’m interested in Web and Android Programming with Java.
+- 👀 I’m interested in Devops and Python programming.
 
-- 🌱 I’m currently learning React and Kotlin.
+- 🌱 I’m currently learning AWS.
 
-- 💞️ I’m looking to collaborate on freelance projects for now.
+- 💞️ I’m looking to collaborate on freelance projects.
 
 - 📫 You can reach me at huzeyfebahadir@gmail.com.
 
